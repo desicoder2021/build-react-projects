@@ -7,7 +7,7 @@ In this repo, you'll find the starter files and the finished files for the React
 Clone this repo. Or you can fork it so that you can track your progress in your own repo.
 
 <ol>
-  <li>Clone it: <code?>git clone https://github.com/desicoder2021/build-react-projects.git</code></li>
+  <li>Clone it: <code>git clone https://github.com/desicoder2021/build-react-projects</code></li>
 </ol>
 
 Each application has its own folder. In each app folder is a finished and start folder. You can see the final app or start working in the start folder with the following steps:
