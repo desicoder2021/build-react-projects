@@ -1,3 +1,15 @@
 # Build React Projects
 
 In this repo, you'll find the starter files and the finished files for the React Apps that we make in the courses:s
+
+# To Start
+
+Clone this repo. Or you can fork it so that you can track your progress in your own repo.
+
+1. Clone it: git clone https://github.com/desicoder2021/build-react-projects.git
+
+Each application has its own folder. In each app folder is a finished and start folder. You can see the final app or start working in the start folder with the following steps:
+
+1. cd into a folder
+2. Install dependencies: npm install or yarn
+3. Start the React app: npm start or yarn start
