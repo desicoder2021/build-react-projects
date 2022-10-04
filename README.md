@@ -17,3 +17,9 @@ Each application has its own folder. In each app folder is a finished and start 
   <li>Install dependencies: <code>npm install</code> or <code>yarn</code></li>
   <li>Start the React app: <code>npm start</code> or <code>yarn start</code></li>
 </ol>
+
+# 5 Apps
+
+<ol>
+  <li><a href="https://github.com/desicoder2021/build-react-projects/tree/master/P01-Pomodoro">Pomodoro</a> - Demo</li>
+</ol>
