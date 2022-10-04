@@ -12,6 +12,8 @@ Clone this repo. Or you can fork it so that you can track your progress in your 
 
 Each application has its own folder. In each app folder is a finished and start folder. You can see the final app or start working in the start folder with the following steps:
 
-1. cd into a folder
-2. Install dependencies: npm install or yarn
-3. Start the React app: npm start or yarn start
+<ol>
+  <li><code>cd</code> into a folder</li>
+  <li>Install dependencies: <code>npm install</code> or <code>yarn</code></li>
+  <li>Start the React app: <code>npm start</code> or <code>yarn start</code></li>
+</ol>
