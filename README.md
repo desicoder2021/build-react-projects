@@ -22,5 +22,5 @@ Each application has its own folder. In each app folder is a finished and start 
 
 <ol>
   <li><a href="https://github.com/desicoder2021/build-react-projects/tree/master/P01-Pomodoro">Pomodoro</a> - Demo</li>
-  <li><a href="https://github.com/desicoder2021/build-react-projects/tree/master/P02-Markdown-Editor">Pomodoro</a> - Demo</li>
+  <li><a href="https://github.com/desicoder2021/build-react-projects/tree/master/P02-Markdown-Editor">Markdown Editor</a> - Demo</li>
 </ol>
