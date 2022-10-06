@@ -26,12 +26,3 @@ textarea {
   padding-left: 20px;
   padding-right: 20px;
 }
-
-blockquote {
-  font-size: 30px;
-  background: #efefef;
-  border-left: 12px solid rgb(44, 163, 241);
-  padding: 20px 30px;
-  border-radius: 5px;
-  margin: 0;
-}
