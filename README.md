@@ -22,7 +22,7 @@ Each application has its own folder. In each app folder is a finished and start 
 
 <ol>
   <li><a href="https://github.com/desicoder2021/build-react-projects/tree/master/P01-Pomodoro">Pomodoro</a> - <a href="https://build-react-projects-1-pomodoro.netlify.app/">Demo</a></li>
-  <li><a href="https://github.com/desicoder2021/build-react-projects/tree/master/P02-Markdown-Editor">Markdown Editor</a> - <a href="https://build-react-project-2-markdown-editor.netlify.app/> Demo </a></li>
+  <li><a href="https://github.com/desicoder2021/build-react-projects/tree/master/P02-Markdown-Editor">Markdown Editor</a> - <a href="https://build-react-project-2-markdown-editor.netlify.app/"> Demo </a> </li>
   <li><a href="https://github.com/desicoder2021/build-react-projects/tree/master/P03-Highlight-Tabs">Highlight-Tabs</a> - Demo</li>
   <li><a href="https://github.com/desicoder2021/build-react-projects/tree/master/P04-Paper-Rock-Scissors">Paper-Rock-Scissors</a> - Demo</li>
   <li><a href="https://github.com/desicoder2021/build-react-projects/tree/master/P05-Moving-Link">Moving-Link</a> - Demo</li>
