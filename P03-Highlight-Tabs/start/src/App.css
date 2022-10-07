@@ -54,7 +54,7 @@ body {
   text-decoration: none;
 }
 
-.tab a.is-active {
+.is-active {
   background: #5131a9;
   color: #eee;
 }
