@@ -1,38 +1,64 @@
-.App {
-  text-align: center;
+* {
+  box-sizing: border-box;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.app {
+  position: relative;
+  height: 100vh;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.arrows {
+  display: grid;
+  grid-template: auto auto / auto auto auto;
+  grid-template-areas:
+    ". up ."
+    "left down right";
+  grid-gap: 8px;
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
 }
 
-.App-link {
-  color: #61dafb;
+.arrows button {
+  cursor: pointer;
+  font-size: 16px;
+  width: 60px;
+  height: 40px;
+  background: rgba(43, 159, 75, 0.811);
+  color: rgb(167, 220, 182);
+  border: none;
+  border-radius: 8px;
+  outline: none;
+  transition: 0.3s ease all;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.arrows button:hover {
+  background: rgba(51, 177, 87, 0.811);
+  color: #fff;
+}
+
+.arrows button:first-child {
+  grid-area: up;
+}
+
+.arrows button:nth-child(2) {
+  grid-area: left;
+}
+
+.arrows button:nth-child(3) {
+  grid-area: down;
+}
+
+.arrows button:last-child {
+  grid-area: right;
+}
+
+.images {
+  display: none;
 }
